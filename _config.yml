@@ -17,7 +17,7 @@
 remote_theme: mmistakes/so-simple-theme@3.2.0
 skin: "/assets/css/skins/dark.css"
 locale: en-GB
-title: "Work Portfolio"
+title: "Creative Portfolio"
 description: "A collection of Data Science projects and Articles"
 baseurl:  # the subpath of your site, e.g. "/blog"
 url: "https://https://mshilacodes.github.io"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -30,7 +30,7 @@ mathjax:
  # combo:  # "tex-svg" (default), "tex-mml-chtml", etc.: docs.mathjax.org/en/latest/web/components/combined.html
  # tags:  # "none", "ams" (default), "all"
 google_fonts:
-  - name: "Source Sans Pro"
+  - name: "Roboto"
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
@@ -49,6 +49,7 @@ permalink: /:categories/:title/
 markdown: kramdown
 feed:
   path: atom.xml
+  
 
 # Pagination - https://jekyllrb.com/docs/pagination/
   paginate: 10
@@ -78,6 +79,15 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
+  
+#Collections
+Collections:
+  datascience:
+    output: true
+    permalink: /:collection/:path/
+  articles:
+    output: true
+    permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
@@ -89,6 +99,21 @@ defaults:
       layout: post
       share: true
 
+# DataScience defaults
+  - scope:
+      path: "_datascience"
+      type: datascience
+    values:
+      layout: post
+      share: true
+
+ # Articles defaults 
+  - scope:
+      path: "_articles"
+      type: articles
+    values:
+      layout: post
+      share: true
 # Site Author
 author: 
   name: Sonia Mshila
