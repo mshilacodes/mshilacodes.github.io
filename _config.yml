@@ -135,7 +135,7 @@ footer_links:
     icon: fab fa-github-square
   - title: Substack
     url: https://rahley.substack.com/
-    icon: fa-brands fa-substack
+    icon: fab fa-substack-square
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
