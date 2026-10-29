@@ -1,5 +1,6 @@
 ---
 title: "JOURNALISM IS A PROFESSION, NOT A TRADE"
+excerpt: "In 2021, the hosts of Capital FM’s The Lift Show laughed through a segment that should have demanded solemnity and strict professionalism. They were talking about Eunice Wangari, a young Kenyan woman who had just survived the horror of being pushed from a building for rejecting a man’s sexual advances. Instead of treating a crime with the professional integrity it deserved, the presenters turned her trauma into a punchline for cheap on-air banter. Although the backlash was swift and the station reprimanded them, the damage was already done."
 image:
     path: /images/classic_tv.png
     thumbnail: 
