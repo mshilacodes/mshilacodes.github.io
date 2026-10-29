@@ -1,6 +1,6 @@
 ---
 title: Articles
 layout: collection
-permalink: recipes
+permalink: /articles/
 entries_layout: list
 ---
