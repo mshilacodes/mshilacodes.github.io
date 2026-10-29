@@ -6,7 +6,7 @@ image:
     caption: photo by marshal yung [Pexels](https://www.pexels.com)
 ---
 
-# ANYONE CAN GO LIVE. NOT EVERYONE SHOULD
+## ANYONE CAN GO LIVE. NOT EVERYONE SHOULD
 
 In 2021, the hosts of Capital FM’s The Lift Show laughed through a segment that should have demanded solemnity and strict professionalism. They were talking about Eunice Wangari, a young Kenyan woman who had just survived the horror of being pushed from a building for rejecting a man’s sexual advances. Instead of treating a crime with the professional integrity it deserved, the presenters turned her trauma into a punchline for cheap on-air banter. Although the backlash was swift and the station reprimanded them, the damage was already done.
 
@@ -27,6 +27,7 @@ Going by the Cambridge definition, a **profession** is any type of work that nee
 ## Increase in quantity, decrease in quality
 
 Decades later, Kadhi’s fears have become a reality, best exemplified by stations like NRG Radio. NRG has normalised treating broadcasting strictly as a trade by consistently prioritising viral social media influencers over qualified mass communication specialists. While critics blame media students for lacking personal branding, this hiring trend ignores the severe ethical consequences of bypassing professional training. Influencers are not the problem; the problem is that they operate without an ethical compass or accountability to a code of conduct. 
+
 This lack of training has accelerated the mainstream normalisation of the "gutter press" and tabloidization. The rise of The Nairobian, the Kenya Monitor, The Leader, the Independent, Nairobi News, and Game Yetu set the stage for tabloids to be more acceptable and more mainstream. Academic studies on the rise of The Nairobian show that shifting media focus away from critical issues toward celebrity, gossip, and crime directly lowers journalistic standards and increases public cynicism. 
 
 The rise of social media has also played a helping hand in this, while it has improved how we consume news and allows us to get real-time updates on matters in the country and around the world. It has also come with the democratisation of news, where anyone can share eyewitness news and multimedia, further reshaping the role of journalism as a profession. The shift has come with concerns around the quality and reliability of news outlets and sources. Essentially removing the professional editing filters that separate fact from fiction.
@@ -50,7 +51,7 @@ The historic Reject Finance Bill protests offered a vivid, contemporary example 
 Conversely, NMG chose to protect its journalistic integrity and credibility by running the story anyway, actively defying its largest funder. This corporate bullying proves that the crisis in modern media is two-pronged: while entertainment platforms are hollowed out from within by a lack of professional training, traditional newsrooms are choked from without by corporate giants who use financial leverage to muzzle public interest journalism.
 
 
-**The Numbers Don’t Lie (But They Do Complicate Things)**
+## The Numbers Don’t Lie (But They Do Complicate Things)
 
 This complex battle between professional standards and corporate capture is directly reflected in the changing attitudes of the Kenyan public. MCK’s report delved into the concerns that Kenyans have about the media; 28% of the respondents stated that they were concerned about the spread of false/misleading information and inadequate coverage of key issues, while Meltwater reports 82%. 
 
@@ -60,7 +61,7 @@ Another interesting result is that the gap between legacy media (TV, news, radio
 
 With the 2027 general elections looming just around the corner, this digital migration is set to reach a critical fever pitch. The online conversations we engage in, the media we consume, and share become very crucial as they feed into how our perspectives are shaped, and we make decisions. The recent Reuters report echoed the same concern about the financial viability of quality journalism during the election year. 
 
-**So, Where Do We Go From Here?**
+## So, Where Do We Go From Here?
 
 Following the news can be overstimulating and stressful, especially with a bulk load of information flowing in digital spaces. This causes some people to opt out of following the news altogether. To quote Lauren Duca, How to Start a Revolution, **“Resist the temptation to shut down on the too-much-ness we all feel, and embrace the relief of understanding yourself as a perpetual student”.** 
 We need to keep in mind that the main mission of a journalist is to empower us with information. Think of news as a starting point for research, where you get to see and understand what’s happening in the landscape (the country). 
@@ -69,7 +70,7 @@ Similar to research, one doesn’t just read one journal and then claim to under
 
 Use critical thinking when considering commentary on social media; the analysis shared by creators should be viewed more as polemic rather than journalism. When choosing your commentary and analysis creator, I would advise judging their content using the Journalism Code of Conduct (MCK website) as a guide. Be sure to also verify the information discussed before sharing it with others to avoid taking part in misinformation and disinformation. 
 
-**Polemic: A piece of writing or a speech in which a person strongly attacks or defends a particular opinion, person, idea or set of beliefs**
+> **Polemic: A piece of writing or a speech in which a person strongly attacks or defends a particular opinion, person, idea or set of beliefs**
 _-	Cambridge Dictionary_
 
 It is also important to remember that while navigating the information shared in the media, we should also identify a key topic that we are keen to understand and follow. Similar to research, you pick a topic, and you dive into all the information that is available on said topic. Doing this will also help inform how one chooses to vote, as you will vote for the person who will include your topic of interest in their manifesto. Following local news, in this case, county news, will also help you stay up to date with what is happening in your community and issues affecting it. 
