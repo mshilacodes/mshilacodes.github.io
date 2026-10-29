@@ -4,10 +4,11 @@
 Sonia Mshila:
   name: Sonia Mshila
   picture: /images/judgy_sonia.jpg
-  twitter: 
+  email: soniamshila@gmail.com
+  bio: "We should all be rebels!"
   links:
     - title: Substack
       url: https://rahley.substack.com/
-      icon: fab fa-twitter-square
+      icon: fab fa-substack
 
 
