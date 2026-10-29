@@ -9,6 +9,7 @@ tags:
     - journalsim
     - data analytics
     - women in tech
+url: https://mshilacodes.github.io/articles/journalism/
 ---
 
 ## ANYONE CAN GO LIVE. NOT EVERYONE SHOULD
