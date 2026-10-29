@@ -90,10 +90,10 @@ defaults:
       share: true
 
 # Site Author
-author: Sonia Mshila
-  name: Sonia 
+author: 
+  name: 
   picture:
-  email: soniamshila@gmail.com
+  email: 
   twitter:
   links:
     - title:
