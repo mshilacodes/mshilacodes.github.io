@@ -5,6 +5,10 @@ image:
     path:
     thumbnail:
     caption:
+tags:
+    - data science
+    - women in tech
+    
 ---
 
 A few years ago, my job role shifted from Community Manager to... well, let's call it "ambiguous tasks" that eventually morphed into Social Media Analyst. Suddenly, my work became heavy on data and reports. And I mean SO MANY REPORTS; there were times I was literally buried alive in spreadsheets. My boss? He had zero filter when it came to letting the wildest requests land on my plate. (We'll revisit that story another time.)

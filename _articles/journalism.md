@@ -5,6 +5,10 @@ image:
     path: /images/classic_tv.png
     thumbnail: 
     caption: photo by marshal yung [Pexels](https://www.pexels.com)
+tags: 
+    - journalsim
+    - data analytics
+    - women in tech
 ---
 
 ## ANYONE CAN GO LIVE. NOT EVERYONE SHOULD
