@@ -107,6 +107,7 @@ defaults:
     values:
       layout: post
       permalink: /datascience/
+      categories: machine-learning, data-science, NLP
       share: true
 
  # Articles defaults 
@@ -116,6 +117,7 @@ defaults:
     values:
       layout: post
       permalink: /articles/
+      categories: journalism, data-analysis, womens-rights, GBV
       share: true
 # Site Author
 author: 
