@@ -106,6 +106,7 @@ defaults:
       type: datascience
     values:
       layout: post
+      permalink: /datascience/
       share: true
 
  # Articles defaults 
@@ -114,6 +115,7 @@ defaults:
       type: articles
     values:
       layout: post
+      permalink: /articles/
       share: true
 # Site Author
 author: 
